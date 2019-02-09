@@ -1,0 +1,20 @@
+{
+  "name": "gridsome-plugin-remark-twitter",
+  "version": "1.0.0",
+  "description": "Gridsome remark plugin to embed tweets and moments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Vega <danvega@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "vue",
+    "markdown",
+    "twitter"
+  ],
+  "dependencies": {
+    "node-fetch": "^2.3.0",
+    "unist-util-visit": "^1.4.0"
+  }
+}

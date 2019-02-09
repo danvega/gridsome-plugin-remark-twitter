@@ -77,10 +77,7 @@ These other options are also available, to control how the widget is rendered:
 ```markdown
 # Blog post title
 
-This is an example of embedding a single tweet card.
-Add any markdown as you normally do, and then insert a valid
-Tweet link anywhere to automatically transform it into an
-embed card.
+This is an example of embedding a single tweet card. Add any markdown as you normally do, and then insert a valid Tweet link anywhere to automatically transform it into an embed card.
 
 https://twitter.com/gridsome/status/1088777983987335170
 

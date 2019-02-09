@@ -99,8 +99,7 @@ https://twitter.com/i/moments/650667182356082688
 > __NOTE:__ Make sure to copy the Tweet link instead of the embed code.
 
 ## How this looks like
-
-![Embedded Tweet](https://imgur.com/a/XkIyzNI)
+<p align="center"><img src="https://i.imgur.com/yE2mWtl.png"/></p>
 
 ## License
 

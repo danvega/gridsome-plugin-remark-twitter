@@ -104,3 +104,10 @@ https://twitter.com/i/moments/650667182356082688
 ## License
 
 MIT
+
+## Open Source Love
+
+I wish I could take credit for this plugin but all the credit in the world goes to weknowinc. Instead of reinventing the wheel I borrowed what they did for Gatsby. Thank you!
+
+https://github.com/weknowinc/gatsby-remark-twitter
+

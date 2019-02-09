@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Dan Vega <danvega@gmail.com>",
+  "homepage": "https://github.com/cfaddict/gridsome-plugin-remark-twitter",
   "license": "MIT",
   "keywords": [
     "vue",

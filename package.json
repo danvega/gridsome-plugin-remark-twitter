@@ -1,6 +1,6 @@
 {
   "name": "gridsome-plugin-remark-twitter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gridsome remark plugin to embed tweets and moments",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,7 @@
   "keywords": [
     "vue",
     "gridsome",
+    "gridsome-plugin",
     "markdown",
     "twitter"
   ],

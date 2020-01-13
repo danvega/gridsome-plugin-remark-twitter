@@ -13,7 +13,7 @@ const getEmbeddedTweet = async (url, opt) => {
     theme: opt.theme || '',
     link_color: opt.linkColor || '',
     widget_type: opt.widgetType || '',
-    omit_script: true,
+    omit_script: false,
     dnt: true,
     limit: 20,
     chrome: 'nofooter'
